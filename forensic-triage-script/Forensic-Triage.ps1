@@ -1,1 +1,0 @@
-Write-Host 'Collecting forensic data...'
